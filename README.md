@@ -1,4 +1,4 @@
-# -Project-Nishtha-Punjani 
+# -Project 1-Nishtha-Punjani 
 Project Title: Academic Management System ( using SQL)
  Project Description: Design and develop an Academic Management System using SQL. The projects should involve three tables 1.StudentInfo 2. CoursesInfo 3.EnrollmentInfo. The Aim is to create a system that allows for managing student information and course enrollment. 
 
